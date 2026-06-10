@@ -13,8 +13,8 @@ redirect_from:
 
 Fields
 ======
-* **Primary:** Development Economics; Economics of Education and Human Capital; Labor Economics
-* **Secondary:** Environmental and Energy Economics
+* **Primary:** Development Economics; Economics of Education; Labor Economics
+* **Secondary:** Energy Economics; Property Rights; Environment and Climate Change
 
 Education
 ======
