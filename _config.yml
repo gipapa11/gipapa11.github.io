@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gerald Ipapa"
 title_separator          : "-"
 name                     : &name "Gerald Ipapa"
-description              : &description "Development economist studying education, labor markets, property rights, climate, environment, and conflict displacement"
+description              : &description "Development economist studying education and labor markets, with secondary interests in energy, property rights, and the environment and climate change"
 url                      : https://geraldipapa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gipapa11/geraldipapa.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gerald Ipapa"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow, Georgetown University. Development economist working on education, labor, property rights, climate, and displacement."
+  bio              : "Postdoctoral Fellow, Georgetown University. Development economist studying education and labor markets, with interests in energy, property rights, and climate."
   location         : "Washington, DC"
   employer         : "Georgetown University"
   pubmed           :
