@@ -11,10 +11,9 @@ redirect_from:
 
 [Download CV (PDF)]({{ base_path }}/files/Ipapa_CV.pdf){: .btn .btn--primary}
 
-Fields
+Employment
 ======
-* **Primary:** Development Economics; Economics of Education; Labor Economics
-* **Secondary:** Energy Economics; Property Rights; Environment and Climate Change
+* Postdoctoral Fellow, Georgetown University, 2024–present
 
 Education
 ======
@@ -24,9 +23,10 @@ Education
 * M.A., International Development, Georgetown University, 2019 (*Thesis of the Year*)
 * B.S., Mathematics and Statistics, Egerton University, Kenya, 2010
 
-Academic Appointments
+Fields
 ======
-* Postdoctoral Fellow, Georgetown University, 2024–present
+* **Primary:** Development Economics; Economics of Education; Labor Economics
+* **Secondary:** Energy Economics; Property Rights; Environment and Climate Change
 
 Other Professional Experience
 ======
@@ -48,13 +48,13 @@ Work in Progress
 * "Saturating the Safety Net: Cash Transfers, Skills, and Spillovers in an Urban Refugee Economy," with Andrew Zeitlin, Billy Jack, and Alex Wendo. Randomized saturation-design RCT, ~4,000 refugee and host households, urban Nairobi; AEA-registered pre-analysis plan. Baseline and three quarterly follow-ups complete; full endline 2026.
 * "Property Rights, Climate Displacement, and Household Welfare: Evidence from Kenya's Rising Lakes." Tests how pre-existing tenure status (formal, customary, informal) shapes compensation receipt, adaptation investment, and livelihood recovery after slow-onset displacement, using satellite-derived lake expansion measures (Landsat/Sentinel-2, 2005–2025) for Lakes Baringo, Bogoria, and Naivasha and a planned household survey; over 80,000 households displaced since 2010.
 
-Grants and External Funding
+Research Funding
 ======
 * IKEA Foundation, RCT (Co-PI): USD 691,000 (2024); USD 92,237 (2025)
 * J-PAL King Climate Action Initiative, Research Travel and Project Development Grant (PI), 2022
 * IZA/DFID Growth and Labour Markets in Low-Income Countries (GLM-LIC) (Co-PI), 2018
 
-Honors and Fellowships
+Awards & Honors
 ======
 * Sally Latham Dissertation Research Award, University of Delaware, 2024
 * Sloan/Berkeley Environmental and Energy Economics Fellowship, 2023
@@ -62,7 +62,7 @@ Honors and Fellowships
 * University of Delaware Summer Research Fellowship, 2022
 * Georgetown University Thesis of the Year, 2019
 
-Invited Talks and Conference Presentations
+Presentations
 ======
 * **2025:** First Annual Research Conference on Global Lead Exposure (Washington, DC)
 * **2023:** AERC Senior Policy Seminar XXV (Nairobi); Sloan/Berkeley Graduate Workshop in Environmental and Energy Economics (Berkeley); Federal Reserve Bank of Philadelphia; AERE Energy, Environment and Transportation Workshop; University of Delaware Economics Seminar

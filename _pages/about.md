@@ -18,7 +18,7 @@ In [*The Hidden Costs of Recycling: Lead Exposure and Student Learning*](/public
 
 I am also a co-investigator on [*Saturating the Safety Net*](/publication/saturating-safety-net), a randomized saturation-design RCT among roughly 4,000 refugee and host-community households in urban Nairobi (with Andrew Zeitlin, Billy Jack, and Alex Wendo), measuring the effects of cash and entrepreneurship training on livelihoods, social cohesion, and local prices.
 
-I received my Ph.D. in Economics from the University of Delaware in 2024. Before graduate school, I spent more than a decade leading randomized field experiments with Innovations for Poverty Action in Kenya, and I have consulted for the World Bank since 2018.
+I received my Ph.D. in Economics from the University of Delaware in 2024. Before graduate school, I spent eight years leading randomized field experiments at Innovations for Poverty Action in Kenya, managing impact-evaluation portfolios for researchers including Michael Kremer, Edward Miguel, Pamela Jakiela, and Owen Ozier. I have also consulted for the World Bank (2018–2020 and 2024–present).
 
 [Curriculum Vitae (PDF)](/files/Ipapa_CV.pdf){: .btn .btn--primary}
 
