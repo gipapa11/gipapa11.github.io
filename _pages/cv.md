@@ -40,12 +40,12 @@ Publications
 
 Working Papers
 ======
-* **Ipapa, G.** "The Hidden Costs of Recycling: Lead Exposure and Student Learning." (Job Market Paper.) Estimates the causal effect of battery-recycling lead exposure on children's learning in Kenya using national administrative test data; effects rival the gains from leading school-based interventions.
+* **Ipapa, G.** "The Hidden Costs of Recycling: Lead Exposure and Student Learning." Estimates the causal effect of battery-recycling lead exposure on children's learning in Kenya using national administrative test data; effects rival the gains from leading school-based interventions.
 * **Ipapa, G.** "Groundless Claims: Property Rights When Land Ceases to Exist." (2026.) Extends the Besley (1995) framework to climate-driven land loss; calibrated to Kenya's Rift Valley lakes.
 
 Work in Progress
 ======
-* "Saturating the Safety Net: Cash Transfers, Skills, and Spillovers in an Urban Refugee Economy," with A. Zeitlin, B. Jack, and A. Wendo. Randomized saturation-design RCT, ~4,000 refugee and host households, urban Nairobi; AEA-registered pre-analysis plan. Baseline and three quarterly follow-ups complete; full endline 2026.
+* "Saturating the Safety Net: Cash Transfers, Skills, and Spillovers in an Urban Refugee Economy," with Andrew Zeitlin, Billy Jack, and Alex Wendo. Randomized saturation-design RCT, ~4,000 refugee and host households, urban Nairobi; AEA-registered pre-analysis plan. Baseline and three quarterly follow-ups complete; full endline 2026.
 * "Property Rights, Climate Displacement, and Household Welfare: Evidence from Kenya's Rising Lakes." Tests how pre-existing tenure status (formal, customary, informal) shapes compensation receipt, adaptation investment, and livelihood recovery after slow-onset displacement, using satellite-derived lake expansion measures (Landsat/Sentinel-2, 2005–2025) for Lakes Baringo, Bogoria, and Naivasha and a planned household survey; over 80,000 households displaced since 2010.
 
 Grants and External Funding
