@@ -86,7 +86,7 @@ author:
   location         : "Washington, DC"
   employer         : "Georgetown University"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=q1QOCKgAAAAJ"
   email            : "gje11@georgetown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

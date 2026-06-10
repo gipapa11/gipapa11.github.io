@@ -22,4 +22,4 @@ I received my Ph.D. in Economics from the University of Delaware in 2024. Before
 
 [Curriculum Vitae (PDF)](/files/Ipapa_CV.pdf){: .btn .btn--primary}
 
-You can reach me at [gje11@georgetown.edu](mailto:gje11@georgetown.edu).
+**Contact:** [gje11@georgetown.edu](mailto:gje11@georgetown.edu) · Georgetown University, 125 E St NW, Washington, DC 20001 · [Google Scholar](https://scholar.google.com/citations?user=q1QOCKgAAAAJ)
