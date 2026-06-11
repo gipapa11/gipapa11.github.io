@@ -13,7 +13,7 @@ name                     : &name "Gerald Ipapa"
 description              : &description "Development economist studying education and labor markets, with secondary interests in energy, property rights, and the environment and climate change"
 url                      : https://geraldipapa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gipapa11/geraldipapa.github.io"
+repository               : "geraldipapa/geraldipapa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gipapa11"
+  github           : "geraldipapa"
   google_plus      :
   keybase          :
   instagram        :
